@@ -4,8 +4,10 @@ __pycache__/
 .vscode/*
 .index
 .movies
+.idea
 data
 .idea!/data.ms/
+.data.ms
 !/Index.html
 !/movies.json
 !/meilisearch.exe

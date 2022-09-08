@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbada099-858c-4f36-934b-8619c0b7a12f" name="Changes" comment="try123" />
+    <list default="true" id="cbada099-858c-4f36-934b-8619c0b7a12f" name="Changes" comment="try123">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meilisearch-windows-amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/route.py" beforeDir="false" afterPath="$PROJECT_DIR$/routes/route.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +133,7 @@
       <workItem from="1662530253403" duration="5493000" />
       <workItem from="1662547668665" duration="1283000" />
       <workItem from="1662549101590" duration="6713000" />
-      <workItem from="1662613295262" duration="5830000" />
+      <workItem from="1662613295262" duration="7606000" />
     </task>
     <task id="LOCAL-00001" summary="try">
       <created>1661438283678</created>

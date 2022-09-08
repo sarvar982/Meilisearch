@@ -40,7 +40,7 @@ async def creation_of_new_docs(doc: Community):
     return response
 
 
-@router.put("/add/syninoms/")
+@router.put("/add/synonyms/")
 async def insert_list_of_synonyms(sylist: dict):
     response = CLIENT.index('communities').update_synonyms(
         sylist
