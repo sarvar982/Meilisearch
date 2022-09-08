@@ -1,0 +1,11 @@
+# Byte-compiled files
+__pycache__/
+
+.vscode/*
+.index
+.movies
+data
+.idea!/data.ms/
+!/Index.html
+!/movies.json
+!/meilisearch.exe
